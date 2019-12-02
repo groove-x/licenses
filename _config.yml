@@ -1,0 +1,4 @@
+lsi: false
+safe: true
+highlighter: rouge
+markdown: CommonMark
