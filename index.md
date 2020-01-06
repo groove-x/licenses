@@ -1,3 +1,5 @@
-# Licenses
+# 3rd Party Licenses
 
-ただいま準備中です。LOVOTのお届けまでに公開を予定しておりますので、しばらくお待ちください。
+- [JavaScript packages](javascript.md)
+- [Go packages](golang.md)
+- [Python packages](python.md)
