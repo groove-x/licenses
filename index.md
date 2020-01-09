@@ -3,4 +3,4 @@
 - [JavaScript packages](javascript.md)
 - [Go packages](golang.md)
 - [Python packages](python.md)
-- [Debian packages](debian.md)
+- [Debian packages](debian.txt)
