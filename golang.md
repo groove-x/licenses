@@ -139,6 +139,7 @@
 | [github.com/RobinUS2/golang-moving-average](http://github.com/RobinUS2/golang-moving-average) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [github.com/rogpeppe/fastuuid](http://github.com/rogpeppe/fastuuid) | [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause) |
 | [github.com/rs/xid](http://github.com/rs/xid) | [MIT License](https://opensource.org/licenses/MIT) |
+| [github.com/rwcarlsen/goexif](http://github.com/rwcarlsen/goexif) | [BSD 2-clause "Simplified" License](https://opensource.org/licenses/BSD-2-Clause) |
 | [github.com/shirou/gopsutil](http://github.com/shirou/gopsutil) | [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause) |
 | [github.com/shirou/w32](http://github.com/shirou/w32) | [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause) |
 | [github.com/sirupsen/logrus](http://github.com/sirupsen/logrus) | [MIT License](https://opensource.org/licenses/MIT) |
