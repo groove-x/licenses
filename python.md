@@ -1,11 +1,14 @@
 # 3rd party python packages used in LOVOT
 | URI | License |
 |:----|:--------|
+| [aiohttp](https://pypi.org/project/aiohttp/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
+| [aiosignal](https://pypi.org/project/aiosignal/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [anyio](https://pypi.org/project/anyio/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [appier](https://pypi.org/project/appier/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [asks](https://pypi.org/project/asks/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [async-exit-stack](https://pypi.org/project/async-exit-stack/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
 | [async-generator](https://pypi.org/project/async_generator/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
+| [async-timeout](https://pypi.org/project/async-timeout/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [atomicwrites](https://pypi.org/project/atomicwrites/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [attrs](https://pypi.org/project/attrs/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [bcrypt](https://pypi.org/project/bcrypt/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
@@ -13,6 +16,7 @@
 | [bson](https://pypi.org/project/bson/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [catkin-pkg](https://pypi.org/project/catkin-pkg/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [catkin-pkg-modules](http://wiki.ros.org/catkin) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
+| [cbor2](https://pypi.org/project/cbor2/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [certifi](https://pypi.org/project/certifi/) | [Mozilla Public License 2.0 (MPL 2.0)](https://opensource.org/licenses/MPL-2.0) |
 | [cffi](https://pypi.org/project/cffi/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [chardet](https://pypi.org/project/chardet/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
@@ -20,15 +24,18 @@
 | [click](https://pypi.org/project/click/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [coloredlogs](https://pypi.org/project/coloredlogs/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [cryptography](https://pypi.org/project/cryptography/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
-| [cycler](https://pypi.org/project/Cycler/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
+| [cycler](https://pypi.org/project/cycler/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [dbus-python](https://pypi.org/project/dbus-python/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [decorator](https://pypi.org/project/decorator/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [defusedxml](https://pypi.org/project/defusedxml/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
+| [Deprecated](https://pypi.org/project/Deprecated/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [distro](https://pypi.org/project/distro/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [docutils](https://pypi.org/project/docutils/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause), [GNU General Public License (GPL)](https://opensource.org/licenses/GPL-2.0), [Public Domain](https://unlicense.org/), [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
 | [empy](https://pypi.org/project/empy/) | [LGPL](https://opensource.org/licenses/LGPL-2.1) |
 | [enum34](https://pypi.org/project/enum34/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
+| [exceptiongroup](https://pypi.org/project/exceptiongroup/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [flatbuffers](https://pypi.org/project/flatbuffers/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
+| [frozenlist](https://pypi.org/project/frozenlist/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [gobject](https://pypi.org/project/gobject/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [google-api](https://pypi.org/project/google_api/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [googleapis-common-protos](https://pypi.org/project/googleapis-common-protos/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
@@ -62,11 +69,9 @@
 | [numba](https://pypi.org/project/numba/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [numpy](https://pypi.org/project/numpy/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [numpy-quaternion](https://pypi.org/project/numpy-quaternion/) | [MIT License](https://opensource.org/licenses/MIT) |
-| [onnx](https://pypi.org/project/onnx/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [onnxruntime](https://pypi.org/project/onnxruntime/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [opencv-contrib-python-headless](https://pypi.org/project/opencv-contrib-python-headless/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [opencv-python](https://pypi.org/project/opencv-python/) | [MIT License](https://opensource.org/licenses/MIT) |
-| [openvino](https://pypi.org/project/openvino/) | [Proprietary - Intel](https://www.intel.com/content/dam/develop/external/us/en/documents/intel-openvino-license-agreements.pdf) |
 | [orjson](https://pypi.org/project/orjson/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [outcome](https://pypi.org/project/outcome/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [packaging](https://pypi.org/project/packaging/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
@@ -75,7 +80,7 @@
 | [paramiko](https://pypi.org/project/paramiko/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
 | [pep517](https://pypi.org/project/pep517/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [perf-timer](https://pypi.org/project/perf-timer/) | [MIT License](https://opensource.org/licenses/MIT) |
-| [Pillow](https://pypi.org/project/Pillow/) | [Historical Permission Notice and Disclaimer (HPND)](https://opensource.org/licenses/HPND) |
+| [Pillow](https://pypi.org/project/pillow/) | [Historical Permission Notice and Disclaimer (HPND)](https://opensource.org/licenses/HPND) |
 | [pip-tools](https://pypi.org/project/pip-tools/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [pkg-resources](https://setuptools.pypa.io/en/latest/pkg_resources.html) | [MIT License](https://opensource.org/licenses/MIT) |
 | [pluggy](https://pypi.org/project/pluggy/) | [MIT License](https://opensource.org/licenses/MIT) |
@@ -115,6 +120,7 @@
 | [rospkg-modules](https://www.ros.org/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [scikit-learn](https://pypi.org/project/scikit-learn/) | [new BSD](https://opensource.org/licenses/BSD-3-Clause) |
 | [scipy](https://pypi.org/project/scipy/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
+| [sd-notify](https://pypi.org/project/sd-notify/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [selinux](https://pypi.org/project/selinux/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [sentry-sdk](https://pypi.org/project/sentry-sdk/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [sepolicy](https://packages.ubuntu.com/en/bionic/python3-sepolicy) | [GPL-2](https://opensource.org/licenses/GPL-2.0), [GPL-2+](https://opensource.org/licenses/GPL-2.0), [LGPL-2.1+](https://opensource.org/licenses/LGPL-2.1) |
@@ -132,11 +138,14 @@
 | [tomli](https://pypi.org/project/tomli/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [tricycle](https://pypi.org/project/tricycle/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio](https://pypi.org/project/trio/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
+| [trio-parallel](https://pypi.org/project/trio-parallel/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio-typing](https://pypi.org/project/trio-typing/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio-websocket](https://pypi.org/project/trio-websocket/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [typing-extensions](https://pypi.org/project/typing-extensions/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
 | [urllib3](https://pypi.org/project/urllib3/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [websocket-client](https://pypi.org/project/websocket-client/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
+| [websockets](https://pypi.org/project/websockets/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
+| [wrapt](https://pypi.org/project/wrapt/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [wsaccel](https://pypi.org/project/wsaccel/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [wsproto](https://pypi.org/project/wsproto/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [yarl](https://pypi.org/project/yarl/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
