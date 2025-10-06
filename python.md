@@ -12,6 +12,7 @@
 | [async-timeout](https://pypi.org/project/async-timeout/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [atomicwrites](https://pypi.org/project/atomicwrites/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [attrs](https://pypi.org/project/attrs/) | [MIT License](https://opensource.org/licenses/MIT) |
+| [backports.zoneinfo](https://pypi.org/project/backports.zoneinfo/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [bcrypt](https://pypi.org/project/bcrypt/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [bleson](https://pypi.org/project/bleson/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [bson](https://pypi.org/project/bson/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
@@ -22,7 +23,6 @@
 | [cffi](https://pypi.org/project/cffi/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [chardet](https://pypi.org/project/chardet/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
 | [charset-normalizer](https://pypi.org/project/charset-normalizer/) | [MIT License](https://opensource.org/licenses/MIT) |
-| [click](https://pypi.org/project/click/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [coloredlogs](https://pypi.org/project/coloredlogs/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [cryptography](https://pypi.org/project/cryptography/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [cycler](https://pypi.org/project/cycler/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
@@ -50,6 +50,7 @@
 | [hyperframe](https://pypi.org/project/hyperframe/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [idna](https://pypi.org/project/idna/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [importlib-metadata](https://pypi.org/project/importlib-metadata/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
+| [importlib_metadata](https://pypi.org/project/importlib-metadata/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [ipaddress](https://pypi.org/project/ipaddress/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
 | [ipget](https://pypi.org/project/ipget/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
 | [IPy](https://pypi.org/project/IPy/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
@@ -79,10 +80,8 @@
 | [pandas](https://pypi.org/project/pandas/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [parameterized](https://pypi.org/project/parameterized/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [paramiko](https://pypi.org/project/paramiko/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
-| [pep517](https://pypi.org/project/pep517/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [perf-timer](https://pypi.org/project/perf-timer/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [Pillow](https://pypi.org/project/pillow/) | [Historical Permission Notice and Disclaimer (HPND)](https://opensource.org/licenses/HPND) |
-| [pip-tools](https://pypi.org/project/pip-tools/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [pkg-resources](https://setuptools.pypa.io/en/latest/pkg_resources.html) | [MIT License](https://opensource.org/licenses/MIT) |
 | [pluggy](https://pypi.org/project/pluggy/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [progressbar2](https://pypi.org/project/progressbar2/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
@@ -136,13 +135,13 @@
 | [tblib](https://pypi.org/project/tblib/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [tflite-runtime](https://pypi.org/project/tflite-runtime/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [threadpoolctl](https://pypi.org/project/threadpoolctl/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
-| [tomli](https://pypi.org/project/tomli/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [tricycle](https://pypi.org/project/tricycle/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio](https://pypi.org/project/trio/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio-parallel](https://pypi.org/project/trio-parallel/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio-typing](https://pypi.org/project/trio-typing/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), [MIT License](https://opensource.org/licenses/MIT) |
 | [trio-websocket](https://pypi.org/project/trio-websocket/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [typing-extensions](https://pypi.org/project/typing-extensions/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
+| [typing_extensions](https://pypi.org/project/typing-extensions/) | [Python Software Foundation License](https://opensource.org/licenses/Python-2.0) |
 | [urllib3](https://pypi.org/project/urllib3/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [websocket-client](https://pypi.org/project/websocket-client/) | [GNU Library or Lesser General Public License (LGPL)](https://opensource.org/licenses/LGPL-3.0) |
 | [websockets](https://pypi.org/project/websockets/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
