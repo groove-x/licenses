@@ -5,4 +5,5 @@
 - [Python packages](python.md)
 - [Rust packages](rust.md)
 - [Debian packages](debian.txt)
+- [EDK II components](uefi.txt)
 - [Other packages](other.txt)
