@@ -35,6 +35,7 @@
 | [empy](https://pypi.org/project/empy/) | [LGPL](https://opensource.org/licenses/LGPL-2.1) |
 | [enum34](https://pypi.org/project/enum34/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [exceptiongroup](https://pypi.org/project/exceptiongroup/) | [MIT License](https://opensource.org/licenses/MIT) |
+| [faiss-cpu](https://pypi.org/project/faiss-cpu/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [flatbuffers](https://pypi.org/project/flatbuffers/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [frozenlist](https://pypi.org/project/frozenlist/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [gobject](https://pypi.org/project/gobject/) | [MIT License](https://opensource.org/licenses/MIT) |
@@ -43,6 +44,7 @@
 | [grpcio](https://pypi.org/project/grpcio/) | [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) |
 | [h11](https://pypi.org/project/h11/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [h2](https://pypi.org/project/h2/) | [MIT License](https://opensource.org/licenses/MIT) |
+| [h5py](https://pypi.org/project/h5py/) | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) |
 | [hmmlearn](https://pypi.org/project/hmmlearn/) | [new BSD](https://opensource.org/licenses/BSD-3-Clause) |
 | [hpack](https://pypi.org/project/hpack/) | [MIT License](https://opensource.org/licenses/MIT) |
 | [httptools](https://pypi.org/project/httptools/) | [MIT License](https://opensource.org/licenses/MIT) |
